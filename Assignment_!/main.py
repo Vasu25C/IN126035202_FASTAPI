@@ -86,4 +86,5 @@ def get_deals():
     return {
         "best_deal": cheapest,
         "premium_pick": expensive
+
     }
